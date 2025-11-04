@@ -16,7 +16,6 @@
       >
         {{link.label}}
       </router-link>
-      Myproject
     </div>
     <div class="flex items-center justify-between w-10 transition-all duration-300 relative bg-gray-400 rounded-full h-4">
       <button v-if="themeStore.theme === 'moon'"
