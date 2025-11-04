@@ -46,7 +46,7 @@ const routes: Array<RouteRecordRaw> = [
     {
         path: "/login",
         name: "Login",
-        component: () => import(("../components/Login.vue")),
+        component: () => import(("../components/login.vue")),
     }
 ]
 const router = createRouter( {
