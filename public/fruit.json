@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1, "name": "Banan", "type": "Fruit",  "price": "5000"
+  },
+  {
+    "id":2, "name": "Olma", "type": "Fruit", "price": "4500"
+  },
+  {
+    "id": 3, "name": "Sabzi", "type": "vegetable", "price": "3000"
+  },
+  {
+    "id": 4, "name": "Kartoshka", "type": "vegatable", "price": "6000"
+  },
+  {
+    "id": 5, "name": "Uzum", "type": "Fruit",  "price": "5000"
+  },
+  {
+    "id": 6, "name": "Gilos", "type": "Fruit", "price": "4500"
+  },
+  {
+    "id": 7, "name": "Mandarin", "type": "vegetable", "price": "3000"
+  },
+  {
+    "id": 8, "name": "Limon", "type": "vegatable", "price": "6000"
+  }
+
+]
